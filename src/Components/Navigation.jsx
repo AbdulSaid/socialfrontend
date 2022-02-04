@@ -9,10 +9,10 @@ function Navigation() {
         <Link to="/">
           <div>Home</div>
         </Link>
-        <Link to="/auth/signup">
+        <Link to="/signup">
           <div>Signup</div>
         </Link>
-        <Link to="/auth/login">
+        <Link to="/login">
           <div>Login</div>
         </Link>
       </nav>
